@@ -1,1 +1,11 @@
+#macos
 .DS_Store
+
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Node
+node_modules/
